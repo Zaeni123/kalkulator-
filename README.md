@@ -1,4 +1,3 @@
-![Screenshot_2021 08 22_11 51 20 574](https://user-images.githubusercontent.com/86873865/130342747-fb7c1b89-1c5b-458d-a6f1-8a1fac9c9599.png)
 # Kalkulator
 Jalankan script kalkulator ini di:
 - Termux
