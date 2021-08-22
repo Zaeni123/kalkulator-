@@ -16,3 +16,17 @@ $ git clone https://github.com/Zaeni123/kalkulator-
 $ cd kalkulator-
 
 $ python kalkulator.py
+
+# Perintah di WSL & Linux lain
+
+$ sudo apt update && apt upgrade
+
+$ sudo apt install python
+
+$ sudo apt install git
+
+$ git clone https://github.com/Zaeni123/kalkulator-
+
+$ cd kalkulator-
+
+$ python kalkulator.py
