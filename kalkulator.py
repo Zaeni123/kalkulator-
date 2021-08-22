@@ -19,7 +19,7 @@ banner='''
 |                    |
 |Penambahan  = ( + ) |
 |Pengurangan = ( - ) |
-|Perkalian   = ( x ) |
+|Perkalian   = ( × ) |
 |Pembagian   = ( \ ) |
 |____________________|
 
