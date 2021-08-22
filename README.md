@@ -19,7 +19,7 @@ $ python kalkulator.py
 
 Selamat menjalankannya..)
 
-# Perintah di WSL & Linux lain
+# Perintah di WSL & Terminal Linux lainnya
 
 $ sudo apt update && apt upgrade
 
