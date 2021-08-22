@@ -6,4 +6,13 @@ Jalankan script kalkulator ini di:
 
 # Perintah di Termux
 $ pkg update && pkg upgrade
-$ fvd
+
+$ pkg install python
+
+$ pkg install git
+
+$ git clone https://github.com/Zaeni123/kalkulator-
+
+$ cd kalkulator-
+
+$ python kalkulator.py
